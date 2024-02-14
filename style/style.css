@@ -205,7 +205,8 @@ footer {
   text-align: center;
 }
 
-/* @media (min-width: 1000px) {
+/* resizing for different screen size */
+@media (min-width: 1000px) {
   .section2 .info-grid {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -233,4 +234,4 @@ footer {
     column-gap:50px;
     width: 400px;
   }
-} */
+}
