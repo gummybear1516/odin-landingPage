@@ -1,1 +1,1 @@
-# odin-landingPage
+# This is a simple landing page exercise at The Odin Project.
